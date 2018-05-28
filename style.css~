@@ -2,3 +2,15 @@
         margin:0%;
         padding:0%;
 }
+
+h1{color:yellow;}
+
+h2{}
+
+header{
+        width:50%;
+        height:10%;
+        background-color:#92C7E5;
+}
+
+

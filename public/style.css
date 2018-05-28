@@ -1,0 +1,67 @@
+*{
+        margin:0%;
+        padding:0%;
+}
+
+h1{
+       color:white;
+       size:2em;
+}
+
+h2{
+        color:lightgrey;
+        font-size:1.25em;
+}
+
+header{
+        width:70%;
+        height:auto;
+        margin-left:11%;
+        padding:2% 4% 2% 4%;
+        border-radius: 0em 0em 1em 1em;
+        background-color:#4C8FB6;
+}
+
+main{
+        width:100%;
+}
+
+section{
+        width:60%;
+        height:auto;
+        margin-left:18%;
+}
+
+section header{
+        width:92%;
+        margin:0%;
+        background-color:#4CB666;
+}
+
+section article{
+        height:25em;
+        margin-top:0.5%;
+        background-color:#8CDFB2;
+        border-radius:1em 1em 0em 0em;
+}
+
+section form{
+        padding:2% 0% 2% 3%;
+        background-color:#7EC860;
+        border-radius:0em 0em 0.5em 0.5em;
+}
+
+form input{
+        width:74%;
+        height:2em;
+}
+
+form button{
+        width:20%;
+        height:2em;
+        border:solid 0.15#AFEECC,em white;
+        border-radius:1em;
+        background:radial-gradient(#AFEECC,#7EC860);
+}
+
+

@@ -1,0 +1,2 @@
+https://access.redhat.com/documentation/en-us/red_hat_container_development_kit/2.4/html/getting_started_guide/deploying_an_application_on_openshift
+
